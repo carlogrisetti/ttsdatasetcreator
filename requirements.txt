@@ -1,0 +1,19 @@
+# Get from Wikipedia
+rich
+wikipedia
+num2words
+transformers
+spacy
+sentencepiece
+protobuf
+torch
+
+# Generate CSV
+pdfplumber
+
+# Record Audio
+pipwin  # pipwin install pyaudio
+pyaudio
+keyboard
+librosa
+webrtcvad
